@@ -3,12 +3,10 @@ using SocialNetwork.DAL.Entities;
 using SocialNetwork.DAL.Repositories;
 using NUnit.Framework;
 using SocialNetwork;
-using System;
 using SocialNetwork.BLL.Services;
 using SocialNetwork.BLL.Services.Models;
-using System.Security.Cryptography.X509Certificates;
 
-namespace SocialNetwork.Test
+namespace SocialNetwork.Tests
 {
     public class Tests
     {
